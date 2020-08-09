@@ -1,10 +1,9 @@
-# ML Kit Vision Quickstart Sample App
-
+# <span style="color:red">ML Kit Vision Quickstart Sample App</span>
 ## Introduction
 
 This ML Kit Quickstart app demonstrates how to use and integrate various vision based ML Kit features into your app.
 
-## Feature List
+### Feature List
 
 Features that are included in this Quickstart app:
 * [Object Detection](https://developers.google.com/ml-kit/vision/object-detection/android) - Detect, track, and classify objects in real time and static images
@@ -74,3 +73,9 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+<!--<style>h1{color:lightblue;}</style>-->
+<!--<style>h2{color:green;}</style>-->
+<!--<style>h3{color:yellow;}</style>-->
+<!--<style>h4{color:coral;}</style>-->
+<!--<style>h5{color:teal;}</style>-->
